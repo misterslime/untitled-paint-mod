@@ -1,0 +1,13 @@
+{
+  "itemGroup.untitledpaintmod": "Example Mod Tab",
+  "block.untitledpaintmod.example_block": "Example Block",
+  "item.untitledpaintmod.example_item": "Example Item",
+
+  "untitledpaintmod.configuration.title": "Untitled Paint Mod Configs",
+  "untitledpaintmod.configuration.section.untitledpaintmod.common.toml": "Untitled Paint Mod Configs",
+  "untitledpaintmod.configuration.section.untitledpaintmod.common.toml.title": "Untitled Paint Mod Configs",
+  "untitledpaintmod.configuration.items": "Item List",
+  "untitledpaintmod.configuration.logDirtBlock": "Log Dirt Block",
+  "untitledpaintmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "untitledpaintmod.configuration.magicNumber": "Magic Number"
+}
