@@ -26,8 +26,8 @@ public class BlockMixin {
         if (level instanceof ClientLevel)
             UntitledPaintMod.LOGGER.info("meows like a bunny");
 
-        if (level.getBlockState(pos).is(Blocks.DIAMOND_BLOCK)) {
-            cir.setReturnValue(true);
+        if (state.is(Blocks.DIAMOND_BLOCK)) {
+            cir.setReturnValue(false);
             cir.cancel();
         }
     }
